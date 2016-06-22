@@ -1,2 +1,2 @@
 # DAT
-Notebook and presentation for General Assembly Data Science course, completed May 2016
+IPython Jupyter notebook and presentation for General Assembly Data Science course, completed May 2016
